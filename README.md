@@ -24,3 +24,6 @@ Clone the repo:
 git clone https://github.com/YOUR_USERNAME/tmdb-cli.git
 cd tmdb-cli
 make
+
+
+https://roadmap.sh/projects/tmdb-cli
